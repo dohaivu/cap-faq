@@ -331,7 +331,7 @@ machines play a significant role in making it very hard to distinguish
 between lost messages (or failed machines) and a slow machine. This
 difficulty is right at the heart of why CAP, FLP and other results are
 true.
-
+  
 ## 16. Have I 'got around' or 'beaten' the CAP theorem?
 
 No. You might have designed a system that is not heavily affected by
